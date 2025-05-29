@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>🧩 Programmer Analyst solving today’s problems with code and preparing for tomorrow’s with Cloud ☁️ and DevOps automation 🤖<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>🧩 Programmer Analyst solving today’s problems with code and preparing for tomorrow’s with Cloud ☁️ and DevOps automation 💭<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 
