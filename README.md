@@ -9,30 +9,30 @@
 <br>
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Profile Image" width="210" style="transform: rotate(-90deg);" />
+<img align="right" src="Gif.gif" alt="Profile Image" height ="250" width="390" />
 </div>
 
 
 ### 💫 About Me
 
-- 👨‍💻 I'm a Software Developer & Analyst with 3+ years of hands-on experience building efficient, scalable, and creative solutions.
-  
-- 💻 Passionate about Full-Stack Web Development, Data Structures & Algorithms, and solving real-world problems through code.
-  
-- ☁️ Currently diving deep into Cloud Computing and DevOps, exploring AWS, Docker, CI/CD, and more.
-  
-- 🧠 Always curious, always learning – upgrading my skillset with Next.js, TypeScript, and system design.
-  
-- 🤝 Love collaborating on open-source projects, tech talks, and community initiatives.
-  
-- 🎯 2025 Goals: Master AWS, become DevOps-proficient, build production-ready apps, and ace advanced DSA.
-  
-- 📍 Based in India, open to remote opportunities and global collabs 🌍
-  
-- 🛠️ Tools of the trade: VS Code, Git, Postman, Linux, and lots of coffee ☕
-  
-- 🧩 Fun Fact: I believe every bug fixed adds a +1 to my XP bar 💪🕹️
+- 👨‍💻 I'm Arpan – a Software Developer with 2.5 years of hands-on experience building scalable, efficient, and clean solutions across web and backend systems.
 
+- 💻 Passionate about Full-Stack Development, Data Structures & Algorithms, and crafting real-world solutions through elegant code.
+
+- ☁️ Currently focused on mastering Cloud Computing and DevOps – exploring AWS, Docker, CI/CD, and modern infrastructure practices.
+
+- 🧠 A curious mind always in motion – learning Next.js, TypeScript, and System Design to strengthen my engineering fundamentals.
+
+- 🤝 Enthusiastic about contributing to open-source, participating in tech communities, and collaborating on meaningful projects.
+
+- 🎯 2025 Goals: Get AWS-certified, become DevOps-proficient, ship production-grade apps, and sharpen advanced DSA problem-solving.
+
+- 📍 Based in India 🇮🇳 | Open to remote roles and global tech collaborations 🌍
+
+- 🛠️ Tools I rely on: VS Code, Git, Postman, Linux, Docker, and (of course) plenty of coffee ☕ to keep the ideas flowing.
+
+- 🧩 Fun Fact: I treat every bug fixed and pipeline deployed as another step toward becoming a real-world tech wizard 💪🕹️
+  
 <br>
 
 ## 🌐 Socials:
@@ -52,7 +52,9 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=ae,anaconda,androidstudio,angular,ansible,arduino,atom,autocad,aws,azure,bash,blender,bootstrap,c,cs,cpp,css,discord,docker,dotnet,dynamodb,eclipse,electron,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gmail,go,grafana,heroku,html,htmx,java,js,jenkins,jquery,kafka,kali,kotlin,linkedin,linux,maven,mongodb,mysql,netlify,nextjs,nodejs,perl,php,postgres,postman,powershell,pycharm,react,redux,spring,sqlite,sublime,stackoverflow,terraform,threejs,ubuntu,vercel,visualstudio,vscode,windows&perline=11" />
+<img src="https://skillicons.dev/icons?i=anaconda,angular,ansible,atom,aws,azure,bash,bootstrap,c,cpp,cloudflare,css,docker,dynamodb,eclipse,fastapi,firebase,flutter,gcp,git,github,gmail,gradle,html,java,js,jenkins,kafka,kubernetes,linkedin,linux,maven,mysql,nextjs,php,postman,powershell,pycharm,py,pytorch,react,spring,sqlite,selenium,tensorflow,terraform,ubuntu,visualstudio,vscode,windows,wordpress&perline=11" />
+</a>
+
 
 </a>
 
@@ -64,12 +66,12 @@
 
 <div align="center">
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodewithArindam0018&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodewithArindam0018&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodewithArindam0018&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodewithArindam0018&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodewithArindam0018&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=CodewithArindam0018&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NandiArpan&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NandiArpan&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NandiArpan&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NandiArpan&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NandiArpan&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=NandiArpan&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
 </div><br>
 
