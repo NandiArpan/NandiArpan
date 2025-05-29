@@ -9,10 +9,9 @@
 <br>
 
 <div>
-<img align="right" src="https://github.com/samarsajad/samarsajad/assets/142666229/51d590e2-dc2f-4beb-b117-22538c953315" alt="Profile Image" width="70" />
-<img align="right" src="https://github.com/samarsajad/samarsajad/assets/142666229/51d590e2-dc2f-4beb-b117-22538c953315" alt="Profile Image" width="140" />
-<img align="right" src="https://github.com/samarsajad/samarsajad/assets/142666229/51d590e2-dc2f-4beb-b117-22538c953315" alt="Profile Image" width="210" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Profile Image" width="210" style="transform: rotate(-90deg);" />
 </div>
+
 
 ### 💫 About Me
 
